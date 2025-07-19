@@ -281,8 +281,6 @@ loadAgeBtn.Font = Enum.Font.FredokaOne
 loadAgeBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 
 loadAgeBtn.MouseButton1Click:Connect(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/munkizzzz/xx/refs/heads/main/egg-randomizer"))()
-end)
 
 -- 👤 Credit
 local credit = Instance.new("TextLabel", frame)
