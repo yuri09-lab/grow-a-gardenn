@@ -26,7 +26,6 @@ local petTable = {
     ["Zen Egg"] = { "Shiba Inu", "Nihonzaru", "Tanuki" },
     ["Gourmet Egg"] = { "Bagel Bunny", "Pancake Mole", "Sushi Bear", "Spaghetti Sloth" },
     ["Sprout Egg"] = { "Dairy Cow", "Jackalope", "Seedling" },
-    ["Enchanted Egg"] = { "Ladybug", "Pixie", "Imp", "Glimmering Sprite" },
 }
 
 local espEnabled = true
