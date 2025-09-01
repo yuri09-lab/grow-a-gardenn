@@ -10,6 +10,7 @@ local player = Players.LocalPlayer
 local mouse = player:GetMouse()
 
 local petTable = {
+    ["Common Egg"] = { "Dog", "Golden Lab", "Bunny" },
     ["Uncommon Egg"] = { "Chicken", "Black Bunny", "Cat", "Deer" },
     ["Rare Egg"] = { "Pig", "Monkey", "Rooster", "Orange Tabby", "Spotted Deer" },
     ["Mythical Egg"] = { "Grey Mouse", "Brown Mouse", "Squirrel", "Red Giant Ant" },
